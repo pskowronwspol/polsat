@@ -1,2 +1,3 @@
 #ignoruj wszystkie pliki wykonalne
 *.o
+*.out
